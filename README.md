@@ -122,3 +122,7 @@ point, default `/Volumes/Kindle`).
 | `build_app.sh` | Builds `PlayBill Display.app` |
 | `static/index.html` | The library page |
 | `kindle/playbills/` | Scripts that run on the Kindle |
+
+## License
+
+[MIT](LICENSE)
